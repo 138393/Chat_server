@@ -1,0 +1,5 @@
+student1 : hello class i am student1
+student2 : hello class this is student2
+teacher : hello class this is teacher
+<DM> teacher : this is private message sent from student1 to teacher
+<DM> student2 : this is a private message sent from student2 to student1
